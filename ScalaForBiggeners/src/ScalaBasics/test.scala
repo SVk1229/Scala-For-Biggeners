@@ -1,5 +1,0 @@
-package ScalaBasics
-
-object test {
-  
-}
