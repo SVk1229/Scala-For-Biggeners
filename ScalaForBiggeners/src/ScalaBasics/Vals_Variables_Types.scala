@@ -17,7 +17,7 @@ object Vals_Variables_Types {
   val stringValue = "stringValue"
   val charValues = "c"
 
-  //Var is same like val, but vars are mutables, we can reassign the values to var.
+  //Var is same like val, but vars are mutables, we can reassign the values to var
   var a = "sai"
   a = "krishna"
 
