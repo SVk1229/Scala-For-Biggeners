@@ -1,0 +1,5 @@
+package ScalaBasics
+
+object test {
+  
+}
